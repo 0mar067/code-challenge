@@ -21,8 +21,7 @@ This project contains simple calculators for common tasks in East Africa, writte
 3. Follow the prompts to input your data and view the results.
 
 ## Author
-
-- Your Name Here
+elnabas eugine
 
 ## License
 
